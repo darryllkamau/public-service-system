@@ -1,0 +1,21 @@
+{
+  "name": "public-service-system",
+  "version": "1.0.0",
+  "description": "A mini eCitizen public service request and management system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "ecitizen",
+    "public-service",
+    "government",
+    "express"
+  ],
+  "author": "Developer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
